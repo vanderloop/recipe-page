@@ -1,0 +1,93 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+img {
+    max-width: 500px;
+    min-width: 320px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: Young Serif, serif;
+    color: Stone 900: hsl(24, 5%, 18%);
+}
+
+h2 {
+    font-family: Young Serif, serif;
+    color: hsl(14, 45%, 36%);
+}
+
+h3 {
+    font-family: Outfit, sans-serif;
+    color: hsl(332, 51%, 32%);
+}
+
+p {
+    font-family: Outfit, sans-serif;
+    color: hsl(30, 10%, 34%);
+}
+
+ul {
+    margin-bottom: 30px;
+}
+
+ol {
+    margin-bottom: 30px;
+}
+
+li {
+    font-family: Outfit, sans-serif;
+    color: hsl(30, 10%, 34%);
+    line-height: 30px;
+}
+
+td {
+    font-family: Outfit, sans-serif;
+    color: hsl(30, 10%, 34%);
+    
+}
+
+th {
+    font-family: Outfit, sans-serif;
+    color: hsl(14, 45%, 36%);
+}
+
+.main-style {
+    margin: 0px auto;
+    max-width: 600px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.main {
+    background-color: hsl(0, 0%, 100%);
+    margin: 0px auto;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+
+.image {
+    text-align: center;
+}
+
+.card {
+    background-color: hsl(330, 100%, 98%);
+    text-decoration: hsl(332, 51%, 32%);
+    border-radius: 10px;
+    border: 10px solid hsl(330, 100%, 98%);
+    max-width: 600px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.one {
+    width: 50%
+}
+
+.two {
+    font-weight: bold;
+    color:hsl(14, 45%, 36%);
+}
